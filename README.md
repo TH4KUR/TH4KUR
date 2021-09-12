@@ -1,7 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25" /> Hello, I’m Eashaan Thakur
 Im a self-taught programmer and CTF player who also loves building web applications.
-- 🌱 Im currenlty learning Node.js
+- 🌱 Im currently learning Node.js
 - ❤️ I love writing Javascript and making my own small Backend Node apps
+- 💻 I aspire to become an Ethical Hacker || Fullstack Developer
 
 ## My Github Stats
 <p align="center">
