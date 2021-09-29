@@ -48,3 +48,6 @@ Im a self-taught programmer and CTF player who also loves building web applicati
 TH4KUR/TH4KUR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+---
+<p align=center>Thats it folks! </p>
+<p align=center><img src="https://komarev.com/ghpvc/?username=TH4KUR&color=blueviolet" alt="My profile views"></p>
