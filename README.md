@@ -6,9 +6,9 @@ Im a self-taught programmer and CTF player who also loves building web applicati
 
 ## My Github Stats
 <p align="center">
-<a href="https://github.com/TH4KUR" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TH4KUR&layout=compact&theme=omni&langs_count=8&hide_border=true" width="40.9%"/> </a>
+<a href="https://github.com/TH4KUR" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TH4KUR&layout=compact&count_private=true&theme=omni&langs_count=8&hide_border=true" width="40.9%"/> </a>
 <a href="https://github.com/TH4KUR" ><img width="56.9%" src="http://github-readme-stats.vercel.app/api?username=TH4KUR&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&count_private=true"  /></a>
-  <a href="https://github.com/TH4KUR" ><img align="center" width="55%" src="http://github-readme-streak-stats.herokuapp.com?user=TH4KUR&theme=omni&hide_border=true" /></a>
+  <a href="https://github.com/TH4KUR" ><img align="center" width="55%" src="http://github-readme-streak-stats.herokuapp.com?user=TH4KUR&theme=omni&count_private=true&hide_border=true" /></a>
 
 </p>
 
