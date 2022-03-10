@@ -12,7 +12,7 @@ Im a self-taught programmer and CTF player who also loves building web applicati
 
 </p>
 
-### <details open><summary><b>📊 My Github Contribution Graph</b></summary><br><p align="center"><a href="#"><img alt="Eashaan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TH4KUR&theme=github" /></a></p>
+### <details><summary><b>📊 My Github Contribution Graph</b></summary><br><p align="center"><a href="#"><img alt="Eashaan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TH4KUR&theme=github" /></a></p>
 </details>
 
 
