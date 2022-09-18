@@ -3,6 +3,7 @@ Im a self-taught programmer and CTF player who also loves building web applicati
 - 🌱 Im currently making projects using next.js
 - ❤️ I love writing Javascript and making my own small Backend Node apps
 - 💻 I aspire to become an Ethical Hacker || Fullstack Developer
+- <a href="https://www.buymeacoffee.com/eashaan">https://www.buymeacoffee.com/eashaan</a>
 
 ## My Github Stats
 <p align="center">
